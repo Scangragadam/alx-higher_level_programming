@@ -50,4 +50,3 @@ class Square:
 
     def __eq__(self, other):
         return self.area() == other.area()
-
